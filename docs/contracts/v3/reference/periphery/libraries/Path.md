@@ -8,7 +8,7 @@
   ) internal returns (bool)
 ```
 
-Returns true iff the path contains two or more pools
+Returns true if the path contains two or more pools
 
 #### Parameters:
 
